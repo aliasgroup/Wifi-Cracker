@@ -1,6 +1,6 @@
 # Advanced WiFi cracker
 The tool is written fully in C++, and should be used on Linux (Ubuntu, Kali, Debian etc). The intention is to show how easy it is to connect to the network if it isn`t protected well enough
-##💠Installation:
+## 💠Installation:
 There are two ways: using a compiled release or building from the source code
 </br> The fast one (downloading the release):
 </br> 1) Download the release files
@@ -14,5 +14,5 @@ There are two ways: using a compiled release or building from the source code
 </br> 3) open the compiled file: ./wifi_fast
 </br> 4) Important: you will also need a simple downloader for the password list unless you have your own. You can you the one from the release or any other
 
-##💠Imrovements and issues:
+## 💠Imrovements and issues:
 If you have any ideas or faced some issues, feel free to share your thoughts - I might add new features in the future
